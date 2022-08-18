@@ -14,7 +14,7 @@
   border: 3px solid red;
 }
 .some-button:disabled {
-  border: 3px dashed gray;
+  border: 2px dashed gray;
 }
 .some-button:hover:enabled {
   background-color: grey;
